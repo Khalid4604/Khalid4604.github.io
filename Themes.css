@@ -500,8 +500,8 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    -webkit-mask-box-image: url("https://media.discordapp.net/attachments/907124148902449214/1075015949104730152/a_b21432c69d82931c286be341c9cb1c3b.gif?width=377&height=377");
-    mask-image: url("https://media.discordapp.net/attachments/907124148902449214/1075015949104730152/a_b21432c69d82931c286be341c9cb1c3b.gif?width=377&height=377")
+    -webkit-mask-box-image: url("https://media.ddiscordapp.net/attachments/907124148902449214/1075015949104730152/a_b21432c69d82931c286be341c9cb1c3b.gif?width=377&height=377");
+    mask-image: url("https://media.ddiscordapp.net/attachments/907124148902449214/1075015949104730152/a_b21432c69d82931c286be341c9cb1c3b.gif?width=377&height=377")
 }
 
 #app-mount .folder-241Joy {
